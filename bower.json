@@ -1,0 +1,8 @@
+{
+    "name": "worldmap",
+    "version": "0.1.0",
+    "dependencies": {
+        "snap.svg": "0.4.1"
+    },
+    "private": true
+}
